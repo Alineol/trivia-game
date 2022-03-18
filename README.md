@@ -42,7 +42,9 @@ Poderiamos adicionar uma página de configurações na qual a pessoa usuária po
 
 Implementar um botão para pausar o som de tic-tac;
 
-implementar um botão de resertar o score.
+implementar um botão de resertar o score;
+
+implementar o sanitizer nas respostas.
 
   
   ![](https://github.com/Alineol/Pixels-art/blob/main/1_viMDiyH9fN7cmcM0n3qqIg.gif)
