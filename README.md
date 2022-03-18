@@ -14,7 +14,7 @@ Esse projeto foi realizado em trio.
 
 Entre minhas contribuições, posso citar: 
 
-- css das páginas de login, de jogo e feedback
+- css das páginas de login, de jogo e feedback ( na página de login, o efeito da palavra "Trivia" foi fornecido pelo Trybe)
 - o arquivo Questions.js
 - o arquivo Interval.js foi feito pelo meu colega, eu apenas complementei colocando o som de tic-tac, barra de progresso circular e a lógica do botão next. 
 - o arquivo helpers.js
