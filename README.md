@@ -46,5 +46,8 @@ implementar um botão de resertar o score;
 
 implementar o sanitizer nas respostas.
 
+**Resultado final**
+https://alineol.github.io/trivia-game/
+
   
   ![](https://github.com/Alineol/Pixels-art/blob/main/1_viMDiyH9fN7cmcM0n3qqIg.gif)
