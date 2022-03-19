@@ -20,7 +20,7 @@
     "redux-thunk": "^2.3.0",
     "sanitize-html": "^2.7.0"
   },
-  "homepage": "https://Alineol.github.io/trivia-game-",
+  "homepage": "https://alineol.github.io/trivia-game",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
